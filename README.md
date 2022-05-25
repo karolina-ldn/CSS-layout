@@ -1,2 +1,2 @@
 # CSS-layout
-A responsive semantic HTML, CSS layout
+A responsive semantic HTML/CSS layout
